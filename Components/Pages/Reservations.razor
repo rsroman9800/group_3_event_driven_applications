@@ -107,7 +107,7 @@
 
     ReservationManager reservationManager = new ReservationManager(); // Initalizes ReservationManager
 
-    private void FindReservations()
+    public void FindReservations()
     {
         try
         {
@@ -133,7 +133,7 @@
         }
     }
 
-    private void SelectReservation(Reservation reservation)
+    public void SelectReservation(Reservation reservation)
     {
         selectedReservation = reservation;
         selectedReservationCode = reservation.ReservationCode;
@@ -147,7 +147,7 @@
         errorMessage = string.Empty;
     }
 
-    private void UpdateReservation()
+    public void UpdateReservation()
     {
         try
         {
