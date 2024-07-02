@@ -1,6 +1,22 @@
 ﻿@page "/flights"
 @using TravelApp.Data
 
+<!-- 
+    Name: Roman Sorokin, Nasratullah Asadi, Mace Howald
+    Date: July 2, 2024
+    Program Description: This Razor page allows users to find and reserve flights. Users can select the origin, destination, and day of the flight, and the program will display matching flights. 
+    Inputs: 
+        - Origin (from): selected from a dropdown menu of airport codes and names.
+        - Destination (to): selected from a dropdown menu of airport codes and names.
+        - Day: selected from a dropdown menu of days of the week.
+        - Traveler's name and citizenship for making a reservation.
+    Processing: 
+        - The program fetches flights matching the selected criteria from the flight manager.
+        - It allows the user to select a flight and then enter traveler details to make a reservation.
+    Outputs: 
+        - A list of matching flights or a message indicating no flights found.
+        - Confirmation messages for errors or successful reservation.
+-->
 
 <div class="container">
     <h3>Flight Finder</h3>
