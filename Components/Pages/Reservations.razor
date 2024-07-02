@@ -1,6 +1,22 @@
 ﻿@page "/reservations"
 @using TravelApp.Data
 
+<!-- 
+    Name: Roman Sorokin, Nasratullah Asadi, Mace Howald
+    Date: July 2, 2024
+    Program Description: This Razor page allows users to find and update reservations. Users can search for reservations by code, airline, or traveler's name. Matching reservations are displayed and can be selected to view and update details.
+    Inputs: 
+        - Reservation code: entered as text.
+        - Airline: entered as text.
+        - Traveler's name: entered as text.
+    Processing: 
+        - The program fetches reservations matching the specified criteria.
+        - It allows the user to select a reservation and then update the name, citizenship, and status.
+    Outputs: 
+        - A list of matching reservations or a message indicating no reservations found.
+        - Confirmation messages for errors or successful updates.
+-->
+
 <div class="container">
     <h3>Reservation Finder</h3>
     <div class="search-section">
