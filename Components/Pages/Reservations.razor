@@ -1,6 +1,22 @@
 ﻿@page "/reservations"
 @using TravelApp.Data
 
+<!-- 
+    Name: Roman Sorokin, Nasratullah Asadi, Mace Howald
+    Date: July 2, 2024
+    Program Description: This Razor page allows users to find and update reservations. Users can search for reservations by code, airline, or traveler's name. Matching reservations are displayed and can be selected to view and update details.
+    Inputs: 
+        - Reservation code: entered as text.
+        - Airline: entered as text.
+        - Traveler's name: entered as text.
+    Processing: 
+        - The program fetches reservations matching the specified criteria.
+        - It allows the user to select a reservation and then update the name, citizenship, and status.
+    Outputs: 
+        - A list of matching reservations or a message indicating no reservations found.
+        - Confirmation messages for errors or successful updates.
+-->
+
 <div class="container">
     <h3>Reservation Finder</h3>
     <div class="search-section">
@@ -32,12 +48,39 @@
             {
                 <p>No reservations found.</p> // Displayed if no reservations are found
             }
-            else
+            else // Loads each found reservation with all its attributes and displays them in the reservation class ToString() method.
             {
-                @foreach (var reservation in reservations)
-                {
-                    <li @onclick="() => SelectReservation(reservation)" style="cursor: pointer;">@reservation.ToString()</li> // Loads each found reservation with all its attributes and displays them in the reservation class ToString() method.
-                }
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Reservation Code</th>
+                            <th>Flight Code</th>
+                            <th>Airline</th>
+                            <th>Cost</th>
+                            <th>Name</th>
+                            <th>Citizenship</th>
+                            <th>Status</th>
+                            <th>Select</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var reservation in reservations)
+                    {
+                        <tr>
+                            <td>@reservation.ReservationCode</td>
+                            <td>@reservation.Flight.FlightCode</td>
+                            <td>@reservation.Flight.Airline</td>
+                            <td>@string.Format("${0:0.00}", reservation.Flight.Cost)</td>
+                            <td>@reservation.TravelerName</td>
+                            <td>@reservation.Citizenship</td>
+                            <td>@(reservation.IsActive ? "Active" : "Inactive")</td>
+                            <td>
+                                <button class="btn btn-primary" @onclick="() => SelectReservation(reservation)">Select</button>
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
             }
         </div>
     </div>

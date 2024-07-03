@@ -1,6 +1,22 @@
 ﻿@page "/flights"
 @using TravelApp.Data
 
+<!-- 
+    Name: Roman Sorokin, Nasratullah Asadi, Mace Howald
+    Date: July 2, 2024
+    Program Description: This Razor page allows users to find and reserve flights. Users can select the origin, destination, and day of the flight, and the program will display matching flights. 
+    Inputs: 
+        - Origin (from): selected from a dropdown menu of airport codes and names.
+        - Destination (to): selected from a dropdown menu of airport codes and names.
+        - Day: selected from a dropdown menu of days of the week.
+        - Traveler's name and citizenship for making a reservation.
+    Processing: 
+        - The program fetches flights matching the selected criteria from the flight manager.
+        - It allows the user to select a flight and then enter traveler details to make a reservation.
+    Outputs: 
+        - A list of matching flights or a message indicating no flights found.
+        - Confirmation messages for errors or successful reservation.
+-->
 
 <div class="container">
     <h3>Flight Finder</h3>
@@ -58,12 +74,41 @@
             {
                 <p>No flights found.</p> // Displays when no flights are found.
             }
-            else
+            else // Loads each found flight with all its attributes and displays them in the flight class ToString() method.
             {
-                @foreach (var flight in flights)
-                {
-                    <li @onclick="() => SelectFlight(flight)" style="cursor: pointer;">@flight.ToString()</li> // Loads each found flight with all its attributes and displays them in the Flight class ToString() method.
-                }
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Flight Code</th>
+                            <th>Airline</th>
+                            <th>Origin</th>
+                            <th>Destination</th>
+                            <th>Day</th>
+                            <th>Time</th>
+                            <th>Seats</th>
+                            <th>Cost</th>
+                            <th>Select</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    @foreach (var flight in flights)
+                    {
+                        <tr>
+                            <td>@flight.FlightCode</td>
+                            <td>@flight.Airline</td>
+                            <td>@flight.Origin</td>
+                            <td>@flight.Destination</td>
+                            <td>@flight.DayOfWeek</td>
+                            <td>@flight.Time</td>
+                            <td>@flight.SeatsAvailable</td>
+                            <td>@string.Format("${0:0.00}", flight.Cost)</td>
+                            <td>
+                                        <button class="btn btn-primary" @onclick="() => SelectFlight(flight)">Select</button> 
+                            </td>
+                        </tr>
+                    }
+                    </tbody>
+                </table>
             }
         </div>
     </div>
