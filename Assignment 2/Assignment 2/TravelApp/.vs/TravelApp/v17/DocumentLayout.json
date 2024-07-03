@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:data\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\resources\\res\\flights.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:resources\\res\\flights.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|c:\\users\\maceh\\documents\\github\\group_3_event_driven_applications\\assignment 2\\assignment 2\\travelapp\\resources\\res\\airports.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{952CFF35-8D8C-492B-808C-9657239AD043}|TravelApp.csproj|solutionrelative:resources\\res\\airports.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Data\\Flight.cs",
+              "RelativeDocumentMoniker": "Data\\Flight.cs",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Data\\Flight.cs",
+              "RelativeToolTip": "Data\\Flight.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA5wB4AAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T15:41:53.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "flightManager.cs",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Data\\flightManager.cs",
+              "RelativeDocumentMoniker": "Data\\flightManager.cs",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Data\\flightManager.cs",
+              "RelativeToolTip": "Data\\flightManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAnwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:37:57.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Flights.razor",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Components\\Pages\\Flights.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Flights.razor",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Components\\Pages\\Flights.razor",
+              "RelativeToolTip": "Components\\Pages\\Flights.razor",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-02T13:38:24.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservations.razor",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Components\\Pages\\Reservations.razor",
+              "RelativeDocumentMoniker": "Components\\Pages\\Reservations.razor",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Components\\Pages\\Reservations.razor",
+              "RelativeToolTip": "Components\\Pages\\Reservations.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-21T14:43:22.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ReservationManager.cs",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Data\\ReservationManager.cs",
+              "RelativeDocumentMoniker": "Data\\ReservationManager.cs",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Data\\ReservationManager.cs",
+              "RelativeToolTip": "Data\\ReservationManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T13:37:55.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "airports.csv",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Resources\\res\\airports.csv",
+              "RelativeDocumentMoniker": "Resources\\res\\airports.csv",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Resources\\res\\airports.csv",
+              "RelativeToolTip": "Resources\\res\\airports.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-02T13:40:01.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "flights.csv",
+              "DocumentMoniker": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Resources\\res\\flights.csv",
+              "RelativeDocumentMoniker": "Resources\\res\\flights.csv",
+              "ToolTip": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\Resources\\res\\flights.csv",
+              "RelativeToolTip": "Resources\\res\\flights.csv",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-07-02T13:40:02.212Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

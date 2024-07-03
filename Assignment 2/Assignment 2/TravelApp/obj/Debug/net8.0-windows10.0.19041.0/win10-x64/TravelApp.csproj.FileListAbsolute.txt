@@ -1,0 +1,632 @@
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.exe
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.deps.json
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.runtimeconfig.json
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.pdb
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.AssemblyReference.cache
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.TravelApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.TravelApp.props
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.TravelApp.props
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.TravelApp.props
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\TravelApp.styles.css
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\TravelApp.bundle.scp.css
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.AssemblyInfoInputs.cache
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.AssemblyInfo.cs
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.CoreCompileInputs.cache
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.Up2Date
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.dll
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\TravelApp.dll
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.pdb
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.genruntimeconfig.cache
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\TravelApp.dll
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\rsrom\source\repos\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Bootstrap.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Icons.FontAwesome.dll
+C:\Users\rsrom\source\repos\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Licensing.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.exe
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.deps.json
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.runtimeconfig.json
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.pdb
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Bootstrap.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Icons.FontAwesome.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Licensing.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Management.Deployment.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\cprg211\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.AssemblyReference.cache
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.TravelApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.TravelApp.props
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.TravelApp.props
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.TravelApp.props
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\TravelApp.styles.css
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\TravelApp.bundle.scp.css
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.AssemblyInfoInputs.cache
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.AssemblyInfo.cs
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.CoreCompileInputs.cache
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.Up2Date
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.dll
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\TravelApp.dll
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.pdb
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.genruntimeconfig.cache
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\TravelApp.dll
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Flights.razor.rz.scp.css
+C:\cprg211\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Reservations.razor.rz.scp.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.exe
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.deps.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.runtimeconfig.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.pdb
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Bootstrap.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Icons.FontAwesome.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Blazorise.Licensing.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Authorization.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Components.WebView.Maui.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.AspNetCore.Metadata.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Composite.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Logging.Debug.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Options.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Extensions.Primitives.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.Interop.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.JSInterop.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Compatibility.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Controls.Xaml.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Essentials.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Maui.Graphics.Win2D.WinUI.Desktop.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.InteractiveExperiences.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WinUI.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppLifecycle.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Builder.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.AppNotifications.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.DynamicDependency.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.Resources.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.ApplicationModel.WindowsAppRuntime.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.PushNotifications.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Security.AccessControl.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Power.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.System.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.Widgets.Projection.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.Net.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Release.Net.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\System.IO.Pipelines.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ar\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ca\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\cs\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\da\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\de\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\el\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\es\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fi\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\fr\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\he\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hi\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hr\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\hu\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\id\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\it\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ja\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ko\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ms\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nb\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\nl\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pl\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt-BR\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\pt\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ro\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\ru\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sk\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\sv\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\th\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\tr\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\uk\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\vi\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-HK\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hans\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\zh-Hant\Microsoft.Maui.Controls.resources.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Graphics.Canvas.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.WindowsAppRuntime.Bootstrap.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\Microsoft.Windows.SDK.NET.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\WinRT.Runtime.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.AssemblyReference.cache
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.build.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.development.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.TravelApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.build.TravelApp.props
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildMultiTargeting.TravelApp.props
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets\msbuild.buildTransitive.TravelApp.props
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.pack.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Flights.razor.rz.scp.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\Components\Pages\Reservations.razor.rz.scp.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\bundle\TravelApp.styles.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\scopedcss\projectbundle\TravelApp.bundle.scp.css
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\staticwebassets.publish.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauimanifest.stamp
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.i.cs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.g.cs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlTypeInfo.g.cs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xaml
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\Platforms\Windows\App.xbf
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlSaveStateFile.xml
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\OpenSans-Regular.ttf
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.AssemblyInfoInputs.cache
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.AssemblyInfo.cs
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.CoreCompileInputs.cache
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.sourcelink.json
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\XamlC.stamp
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.csproj.Up2Date
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\refint\TravelApp.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.pdb
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\TravelApp.genruntimeconfig.cache
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ref\TravelApp.dll
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\priconfig.xml.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\unfiltered.layout.resfiles.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\filtered.layout.resfiles.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\excluded.layout.resfiles.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.resfiles.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\pri.resfiles.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\qualifiers.txt.intermediate
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\MultipleQualifiersPerDimensionFound.txt
+C:\Users\maceh\Documents\GitHub\group_3_event_driven_applications\Assignment 2\Assignment 2\TravelApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\ProjectArchitectures.txt

@@ -1,0 +1,45 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\obj\\Debug\\net8.0-android\\scopedcss\\bundle\\TravelApp.styles.css",
+      "PackagePath": "staticwebassets\\TravelApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\maceh\\Documents\\GitHub\\group_3_event_driven_applications\\Assignment 2\\Assignment 2\\TravelApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.TravelApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.build.TravelApp.props",
+      "PackagePath": "build\\TravelApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildMultiTargeting.TravelApp.props",
+      "PackagePath": "buildMultiTargeting\\TravelApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0-android\\staticwebassets\\msbuild.buildTransitive.TravelApp.props",
+      "PackagePath": "buildTransitive\\TravelApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

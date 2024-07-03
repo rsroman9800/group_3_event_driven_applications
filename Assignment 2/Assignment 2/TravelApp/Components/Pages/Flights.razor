@@ -1,0 +1,67 @@
+﻿@page "/flights"
+@using TravelApp.Data
+
+
+
+<h3>Flight Finder</h3>
+
+<EditForm Model="@flightData" OnSubmit="@findFlights">
+
+    <div>
+        <label for="origin">Origin:</label>
+        <InputText id="origin" @bind-Value="flightData.OriginCode" class="form-control" />
+    </div>
+    <div>
+        <label for="destination">Destination:</label>
+        <InputText id="destination" @bind-Value="flightData.DestinationCode" class="form-control" />
+    </div>
+    <div>
+        <label for="dayOfWeek">Day of the Week:</label>
+        <InputSelect id="dayOfWeek" @bind-Value="flightData.Date" class="form-control">
+            @foreach (var day in Enum.GetValues<DayOfWeek>())
+            {
+                <option value="@day">@day</option>
+            }
+        </InputSelect>
+    </div>
+
+    <button class="btn btn-primary" type="submit">Search</button>
+</EditForm>
+
+
+@if (flights != null && flights.Any())
+{
+    <h4>Available Flights</h4>
+    <ul>
+        @foreach (var flight in flights)
+        {
+            <li>@flight.FlightCode - @flight.Origin to @flight.Destination on @flight.Date</li>
+        }
+    </ul>
+}
+
+
+@code {
+
+    private FlightData flightData = new FlightData();
+    private List<Flight> flights;
+
+
+
+    public class FlightData
+    {
+        public string OriginCode { get; set; }
+        public string DestinationCode { get; set; }
+        public DayOfWeek Date { get; set; }
+    }
+
+
+    public void findFlights()
+    {
+        flightManager flightManager = new flightManager();
+
+        flights = flightManager.FindFlights(flightData.OriginCode, flightData.DestinationCode, flightData.Date);
+    }
+
+
+}
